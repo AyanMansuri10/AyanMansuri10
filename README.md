@@ -70,15 +70,3 @@ I am a Computer Science student with a strong foundation in Data Structures & Al
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=AyanMansuri10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-  <br/>
-  ![](https://streak-stats.demolab.com/?user=AyanMansuri10&theme=dark&hide_border=false)
-  <br/>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AyanMansuri10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
-
